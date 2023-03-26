@@ -1,4 +1,4 @@
-### <div align="center">Hello, 👋🏼 I'm Amber, a Frontend Engineer Student at Turing School of Software and Design 👩🏻‍💻</div>  
+### <div>Hello, 👋🏼 I'm Amber, a Frontend Engineer Student at Turing School of Software and Design 👩🏻‍💻</div>  
   
 
 - 🌱 I’m currently working on [Rancid Tomatillos](https://github.com/qrispi/rancid-tomatillos)  
@@ -16,7 +16,6 @@
 ## My Skill Set  
 
 
-### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
