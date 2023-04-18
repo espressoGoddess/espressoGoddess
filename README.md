@@ -1,4 +1,4 @@
-### <div>Hello, 👋🏼 I'm Amber, a Frontend Engineer Student at Turing School of Software and Design 👩🏻‍💻</div>  
+### <div>Hello, 👋🏼 I'm Amber, a Frontend Engineer who learned at Turing School of Software and Design 👩🏻‍💻</div>  
   
 
 - 🌱 I’m currently working on [Rancid Tomatillos](https://github.com/qrispi/rancid-tomatillos)  
