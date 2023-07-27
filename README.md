@@ -1,7 +1,7 @@
-### <div>Hello, 👋🏼 I'm Amber, a Frontend Engineer who learned at Turing School of Software and Design 👩🏻‍💻</div>  
+### <div>Hello, 👋🏼 I'm Amber, a Frontend Engineer 👩🏻‍💻</div>  
   
 
-- 🌱 I’m currently working on [MIA(Medical Information Assistant)](https://github.com/Medical-Information-Assistant-MIA)  
+- 🌱 I’m currently working on [WanderReads](https://github.com/espressoGoddess/wander_reads)  
   
 
 - 🌱 I’m currently learning:
