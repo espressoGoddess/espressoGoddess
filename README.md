@@ -1,4 +1,4 @@
-### <div>Hello, 👋🏼 I'm Amber, a Frontend Engineer 👩🏻‍💻</div>  
+### <div align='center'>Hello, 👋🏼 I'm Amber, a Frontend Engineer 👩🏻‍💻</div>  
   
 
 - 🌱 I’m currently working on [WanderReads](https://github.com/espressoGoddess/wander_reads)  
