@@ -1,6 +1,6 @@
 # 👋🏼 My name is Amber (she/her)
 
-### I'm a Frontend Developer & Espresso Enthusiast
+### I'm a Frontend Developer <code>|</code> Mountain Biker <code>|</code> Espresso Enthusiast
 
 #### 🌱 I’m currently working on [Wander Reads](https://github.com/espressoGoddess/wander_reads) and learning:
 
@@ -55,6 +55,10 @@
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 <br/>
 
