@@ -1,6 +1,6 @@
 # 👋🏼 My name is Amber (she/her)
 
-### I'm a Frontend Developer <code>|</code> Mountain Biker <code>|</code> Espresso Enthusiast
+### I'm a Frontend Developer | Mountain Biker | Espresso Enthusiast
 
 #### 🌱 I’m currently working on [Wander Reads](https://github.com/espressoGoddess/wander_reads) and learning:
 
