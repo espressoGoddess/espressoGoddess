@@ -2,7 +2,7 @@
 
 ### I'm a Frontend Developer | Mountain Biker | Espresso Enthusiast
 
-#### 🌱 I’m currently working on [Wander Reads](https://github.com/espressoGoddess/wander_reads) and learning:
+#### 🌱 I’m currently working on [Bingo](https://github.com/espressoGoddess/bingo) and deepening my understanding of:
 
 <div>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -17,6 +17,7 @@
 ### Languages:
 
 <div>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,6 +27,7 @@
 ### Frameworks/Libraries:
 
 <div>
+    <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
     <img alt="Express.js" src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
