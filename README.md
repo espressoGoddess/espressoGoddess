@@ -1,6 +1,6 @@
 # 👋🏼 My name is Amber (she/her)
 
-### I'm a Frontend Developer | Mountain Biker | Espresso Enthusiast
+### I'm a Software Engineer | Mountain Biker | Espresso Enthusiast
 
 #### 🌱 I’m currently working on [Bingo](https://github.com/espressoGoddess/bingo) and deepening my understanding of:
 
