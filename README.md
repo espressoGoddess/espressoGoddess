@@ -43,7 +43,7 @@
 - Notion
 
 ## Connect with me
-- Email: amber@espressogoddess.dev
+- Email: ashipley716@gmail.com
 - LinkedIn: [linkedin.com/in/amber-shipley](https://linkedin.com/in/amber-shipley)
 - Website: [espressogoddess.dev](http://espressogoddess.dev)
 
