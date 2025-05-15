@@ -2,9 +2,7 @@
 
 ### Software Engineer | Mountain Biker | Espresso Enthusiast
 
-#### 🌱 Currently working on [Bingo](https://github.com/espressoGoddess/bingo) and deepening my understanding of:
-- TypeScript
-- Next.js
+#### 🌱 My most recent project is [Bingo](https://github.com/espressoGoddess/bingo) 
 
 ## My Skill Set
 
