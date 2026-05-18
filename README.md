@@ -2,7 +2,7 @@
 
 ### Software Engineer | Mountain Biker | Espresso Enthusiast
 
-#### 🌱 My most recent project is [Bingo](https://github.com/espressoGoddess/bingo) 
+#### 🌱 My most recent project is [Vector](https://github.com/espressoGoddess/vector), which is currently under development
 
 ## My Skill Set
 
@@ -19,6 +19,7 @@
 - Express.js
 - Bootstrap
 - Tailwind CSS
+- ShadCN/Aria
 
 ### Testing:
 - Cypress
