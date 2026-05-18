@@ -45,6 +45,3 @@
 - Email: ashipley716@gmail.com
 - LinkedIn: [linkedin.com/in/amber-shipley](https://linkedin.com/in/amber-shipley)
 - Website: [espressogoddess.dev](http://espressogoddess.dev)
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=espressoGoddess&show_icons=true&count_private=true&hide_border=true)
